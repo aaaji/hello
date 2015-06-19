@@ -5,6 +5,7 @@ public class Issue2 {
 		System.out.println();
 		
 		
+		
 	}
 	public void run2() {		
 	}
